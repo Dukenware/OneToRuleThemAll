@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using RazorClassLibrary.Areas.Identity;
 using RazorClassLibrary.Data;
 
-namespace JustEats.BlazorUi
+namespace RazorClassLibrary
 {
     public static class ServiceCollectionExtensions
     {
