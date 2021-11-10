@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace BlazorServer.Data.Migrations
+namespace RazorClassLibrary.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
