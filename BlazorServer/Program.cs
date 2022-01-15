@@ -1,4 +1,4 @@
-using JustEats.BlazorUi;
+using RazorClassLibrary;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
